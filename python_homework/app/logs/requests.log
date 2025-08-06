@@ -1,0 +1,6 @@
+{"asctime": "2025-07-23 15:14:10,206", "levelname": "INFO", "name": "request_logger", "message": "", "endpoint": "pow", "params": {"base": 2.0, "exp": 10.0}, "result": 1024.0}
+{"asctime": "2025-07-23 15:14:21,490", "levelname": "INFO", "name": "request_logger", "message": "", "endpoint": "pow", "params": {"base": 2.0, "exp": 11.0}, "result": 2048.0}
+{"asctime": "2025-07-23 15:14:38,285", "levelname": "INFO", "name": "request_logger", "message": "", "endpoint": "fact", "params": {"n": 6}, "result": 720}
+{"asctime": "2025-07-23 16:52:47,135", "levelname": "INFO", "name": "request_logger", "message": "", "endpoint": "pow", "params": {"base": 2.0, "exp": 10.0}, "result": 1024.0}
+{"asctime": "2025-07-23 16:52:54,601", "levelname": "INFO", "name": "request_logger", "message": "", "endpoint": "fact", "params": {"n": 6}, "result": 720}
+{"asctime": "2025-07-24 15:45:42,977", "levelname": "INFO", "name": "request_logger", "message": "", "endpoint": "pow", "params": {"base": 2.0, "exp": 8.0}, "result": 256.0}

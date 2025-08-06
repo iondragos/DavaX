@@ -1,0 +1,9 @@
+Flask
+SQLAlchemy
+python-json-logger
+gunicorn
+prometheus_client
+redis
+PyJWT
+flake8
+kafka-python
