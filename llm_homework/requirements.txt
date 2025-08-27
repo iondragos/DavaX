@@ -1,0 +1,11 @@
+requests
+openai
+chromadb
+gtts
+pygame
+sounddevice
+scipy
+fastapi
+uvicorn
+python-multipart
+pydantic
